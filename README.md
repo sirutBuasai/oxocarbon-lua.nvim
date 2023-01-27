@@ -1,6 +1,6 @@
 # oxocarbon-lua.nvim
 
-A personal and custom lua rewrite of the original [oxocarbon.nvim](https://github.com/shaunsingh/oxocarbon.nvim) theme and forked from [oxocarbon-lua.nvim](https://github.com/B4mbus/oxocarbon-lua.nvim)
+A personal and custom lua rewrite of the original [oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) theme and forked from [oxocarbon-lua.nvim](https://github.com/B4mbus/oxocarbon-lua.nvim)
 Original authors: [@shaunsingh](https://github.com/shaunsingh), [@B4mbus](https://github.com/B4mbus)
 
 ## Table Of Contents
