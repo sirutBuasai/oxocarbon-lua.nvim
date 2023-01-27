@@ -1,7 +1,7 @@
 # oxocarbon-lua.nvim
 
-A lua rewrite of the original [oxocarbon.nvim](https://github.com/shaunsingh/oxocarbon.nvim) theme written in Rust.  
-Original author: [@shaunsingh](https://github.com/shaunsingh)
+A personal and custom lua rewrite of the original [oxocarbon.nvim](https://github.com/shaunsingh/oxocarbon.nvim) theme and forked from [oxocarbon-lua.nvim](https://github.com/B4mbus/oxocarbon-lua.nvim)
+Original authors: [@shaunsingh](https://github.com/shaunsingh), [@B4mbus](https://github.com/B4mbus)
 
 ## Table Of Contents
 
@@ -13,11 +13,11 @@ Original author: [@shaunsingh](https://github.com/shaunsingh)
 
 Install using your favourite package manager, e.g. packer:
 ```lua
-use 'B4mbus/oxocarbon-lua.nvim'
+use 'sirutBuasai/oxocarbon-lua.nvim'
 ```
 or plug:
 ```vim
-Plug 'B4mbus/oxocarbon-lua.nvim'
+Plug 'sirutBuasai/oxocarbon-lua.nvim'
 ```
 
 ## Using
